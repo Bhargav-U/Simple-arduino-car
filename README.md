@@ -28,6 +28,8 @@
 ![Project Screenshot 3](https://drive.google.com/uc?id=1-D3dTnr2Bp68_p4pt8DXktXqTpqZHaF_)
 
 ![Project Screenshot 4](https://drive.google.com/uc?id=1ltYE2ZKSSVRR1k20sHWcidQQAs6Z9Vs7)
+* Use the below zip file incase if the QR dosent work:
+    [App](https://drive.google.com/file/d/1ZCnh5OgM_ErUNSCX38GvzdI5UuTd1DLe/view?usp=sharing)
 
 
 
@@ -345,24 +347,24 @@ void loop() {
 
 <h2>components</h2>
 
-[Arduino uno]()
+[Arduino uno](https://quartzcomponents.com/products/arduino-uno?_pos=2&_sid=32a49f43b&_ss=r)
 
-[Motor driver shield]()
+[Motor driver shield](https://quartzcomponents.com/products/l293d-motor-shield-for-arduino?_pos=1&_sid=aeb036daf&_ss=r)
 
-[chasis set]()
+[Chasis set](https://quartzcomponents.com/products/2wd-smart-robot-car-chassis-kit?_pos=1&_sid=32fb3f70f&_ss=r)
 
-[Ultrasonic Distance sensor]()
+[Ultrasonic Distance sensor](https://quartzcomponents.com/products/hc-sr04-ultrasonic-sensor-module?_pos=1&_sid=c53294f22&_ss=r)
 
-[IR proximity sensor]()
+[IR proximity sensor](https://quartzcomponents.com/products/ir-lm393-photoelectric-sensor-module?_pos=2&_sid=361a794ba&_ss=r)
 
-[Bluetooth module]()
+[Bluetooth module](https://quartzcomponents.com/products/hc-05-bluetooth-module?_pos=2&_sid=f8b263b96&_ss=r)
 
-[1cell battery holder]()
+[1cell battery holder](https://quartzcomponents.com/products/single-cell-18650-li-ion-battery-holder?_pos=2&_sid=586279908&_ss=r)
 
-[2cell battery holder]()
+[2cell battery holder](https://quartzcomponents.com/products/double-cell-18650-li-ion-battery-holder?_pos=1&_sid=586279908&_ss=r)
 
-[Batteries]()
+[Batteries](https://quartzcomponents.com/products/2600mah-3c?_pos=1&_sid=7ef61edc5&_ss=r)
 
-[Battery charger]()
+[Battery charger](https://quartzcomponents.com/products/li-ion-2-cell-battery-charger-universal-ac-with-wire?_pos=4&_sid=529508928&_ss=r)
 
 
