@@ -347,6 +347,7 @@ void loop() {
 ```
 
 <h2>components</h2>
+Non affliated links,I use this website to buy my componets.Cheap and reliable
 
 [Arduino uno](https://quartzcomponents.com/products/arduino-uno?_pos=2&_sid=32a49f43b&_ss=r)
 
