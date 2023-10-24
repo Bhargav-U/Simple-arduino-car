@@ -81,6 +81,7 @@ Technologies used in the project:
  *-----back-----
  *L------------R
  */
+//Default bluetooth module name is HC-05 with password 1234
 //L2393d motor driver module library
 #include<AFMotor.h>
  //defining pins for ultrasonic snesor
