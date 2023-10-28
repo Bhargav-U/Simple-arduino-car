@@ -65,7 +65,7 @@ Technologies used in the project:
 
 <h2>Code</h2>
 
-```Arduino
+```c++
 /*
  * Creators :akshay,bhargav,vatsav
  *ardiuno powered smart car
